@@ -1,0 +1,4 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "jdk.runConfig.vmOptions": "server"
+}
